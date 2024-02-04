@@ -1,0 +1,7 @@
+{
+    "name": "Arvid's Sound Status",
+    "description": "Show current sound input/output. Click to open sound settings. Only tested in Gnome shell 44.",
+    "uuid": "sound-status@arvidj.eu",
+    "shell-version": [ "44" ],
+    "version": "0.1"
+}
